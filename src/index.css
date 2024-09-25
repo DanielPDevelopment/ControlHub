@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+@layer base {
+	html {
+		font-family: 'DM Sans', sans-serif !important;
+		font-feature-settings: 'kern' !important;
+		-webkit-font-smoothing: antialiased;
+		letter-spacing: -0.5px;
+	}
+}
+
+input.defaultCheckbox::before {
+	content: url(../src/assets/svg/checked.svg); 
+	color: white;
+	opacity: 0; 
+	height: 16px; 
+	width: 16px;
+	position: absolute; 
+	left: 50%;
+	transform: translate(-50%, 0px);
+} 
+
+input:checked.defaultCheckbox::before { 
+	opacity: 1;
+} */
+
+.module-content.scrollbar-hide::-webkit-scrollbar {
+	display: none!important; /* Hide scrollbar for webkit (Chrome, Safari) */
+  }
+  
+  /* Optional: If needed for Firefox */
+  .module-content.scrollbar-hide {
+	scrollbar-width: none!important; /* Hide scrollbar for Firefox */
+  }
+
+  .xterm-char-measure-element {
+	visibility: hidden;
+  }
+
+  .xterm-helper-textarea{
+	width: 0px!important;
+  }
+
+  #root{
+	background-color: #1d1f20;
+  }
+
+  body{
+	background-color: #1d1f20;
+  }
+
+  html{
+	background-color: #1d1f20;
+  }
+
+
+
+  /* .xterm-helpers {
+	visibility: hidden;
+  } */
+
+  /* .xterm .xterm-viewport {
+	background-color: transparent;
+	overflow-y: scroll;
+	cursor: default;
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	scrollbar-color: var(--highlight) var(--dark);
+	scrollbar-width: thin;
+  }
+  
+  .xterm-viewport::-webkit-scrollbar {
+	background-color: var(--dark);
+	width: 5px;
+  }
+  
+  .xterm-viewport::-webkit-scrollbar-thumb {
+	background: var(--highlight);
+  } */
+
+
+  
