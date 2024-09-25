@@ -34,7 +34,7 @@ To get started with IssueHub, follow these steps:
     ```bash
     npm install
 
-4. **Start the Development Server***
+4. **Start the Development Server**
     ```bash
     npm start
 
