@@ -3,6 +3,8 @@
 **ControlHub** is a secure and unified platform that allows users to sign in remotely to multiple servers. With customizable modules designed for popular services such as PM2, Apache, Nginx, PostgreSQL, MySQL, and more, you can effortlessly control and monitor your servers from a centralized hub. The intuitive interface streamlines operations, providing a seamless experience for managing files, configuring services, and optimizing server performance. Say goodbye to the hassle of logging into different accounts to maintain your servers—ControlHub makes it easy to manage everything from one place. 
 See live preview of ControlHub [here](https://ofrepose.github.io/controlhubProduction/)
 
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlhub2%20(1).gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlhub2%20(1).gif)
+
 ## Table of Contents
 
 - [Features](#features)
