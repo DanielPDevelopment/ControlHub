@@ -39,6 +39,11 @@ To get started with IssueHub, follow these steps:
 4. **Start the Development Server**
     ```bash
     npm start
+    
+## Contributors
+
+**SCRUM Master**
+- [Anthony Morales](https://github.com/anthonyrmorales)
 
 ## Usage
 
